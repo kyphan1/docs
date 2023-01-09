@@ -57,11 +57,11 @@ Alice ->> SuiNS Registry: does f0f0.... own a-name.sui?
 On the contract publishing event, a `AdminCap` NFT is mint to the deployer address and transferable to anyone - only address holding this NFT can call admin features.
 
 ### Current contracts/objects:
-- Package address: [0xe635ff75931f3b732c8f3b16510237d55194de76](https://explorer.devnet.sui.io/objects/0xe635ff75931f3b732c8f3b16510237d55194de76)
-- Registry object: [0xcd63b4c7bab3fc0d8a91876dc53f385c088e2125](https://explorer.devnet.sui.io/objects/0xcd63b4c7bab3fc0d8a91876dc53f385c088e2125)
+- Package address: [0xf44f6b29c763a496bb29d560b637aee69f90e8ed](https://explorer.devnet.sui.io/objects/0xf44f6b29c763a496bb29d560b637aee69f90e8ed)
+- Registry object: [0x866a120cf14fc500a448b9461f53592477ae4019](https://explorer.devnet.sui.io/objects/0x866a120cf14fc500a448b9461f53592477ae4019)
 - Address resolver object: [0x36f027ae74a82ef1fc945a18469b60ad6c4adc92](https://explorer.devnet.sui.io/objects/0x36f027ae74a82ef1fc945a18469b60ad6c4adc92)
 - Name resolver object: [0x404cda7afd1dddf44c4936d10deebbda33414f15](https://explorer.devnet.sui.io/objects/0x404cda7afd1dddf44c4936d10deebbda33414f15)
-- Configuration object: [0x7ee78ddebfc53c2a9a96ccb5d7770a7249036e61](https://explorer.devnet.sui.io/objects/0x7ee78ddebfc53c2a9a96ccb5d7770a7249036e61)
+- Configuration object: [0x59c8e0759dfbc3d90a72d000e0e8302db0f5a364](https://explorer.devnet.sui.io/objects/0x59c8e0759dfbc3d90a72d000e0e8302db0f5a364)
 
 #### Registry
 
